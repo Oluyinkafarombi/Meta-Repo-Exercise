@@ -1,7 +1,8 @@
 # Meta-Repo-Exercise
 Meta Front End Repo Exercise
 
-Lab: Using A Repository
+**Lab: Using A Repository**
+
 Instructions
 Step 1: Create a new repository on your Github account named "repo-exercise". Ensure that "Add a README file" is selected.
 
